@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm Igor Martins Pansini.
+### I'm looking for a job.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igupansini&show_icons=true&theme=radical)
 
 <!--
 **igupansini/igupansini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
