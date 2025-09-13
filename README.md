@@ -1,7 +1,7 @@
 <h1 align="left">Hello World!</h1>
 
 ###
-<p align="left">I'm 24 and I'm creating and fixing bugs since 2018.</p>
+<p align="left">I'm creating and fixing bugs since 2018.</p>
 
 ###
 <div align="center">
